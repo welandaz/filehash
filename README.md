@@ -1,5 +1,5 @@
 # filehash
-Calculates a hash of a collection of files and directories
+Calculates hashes of a collection of files and directories
 
 ## Example
 
